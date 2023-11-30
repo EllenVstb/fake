@@ -8,7 +8,9 @@
       "location": "Werchter",
       "date": "4-7 juli 2024",
       "time": "12.00",
-      "organisator": "Noel Steen"
+      "organisator": "Noel Steen",
+      "url": "https://github.com/EllenVstb/fake/blob/main/pp.png"
+
     },
     {
       "id": 2,
@@ -18,7 +20,9 @@
       "location": "Kiwiet",
       "date": "15-18 augustus 2024",
       "time": "11.00",
-      "organisator": "Chokri Mahassine"
+      "organisator": "Chokri Mahassine",
+      "url": "https://github.com/EllenVstb/fake/blob/main/pp.png"
+
     },
     {
       "id": 3,
@@ -28,7 +32,9 @@
       "location": "Boom",
       "date": "19-21 juli 2024",
       "time": "11.00",
-      "organisator": "WeAreOne"
+      "organisator": "WeAreOne",
+      "url": "https://github.com/EllenVstb/fake/blob/main/pp.png"
+
     }
   ]
 }
