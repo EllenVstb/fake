@@ -35,6 +35,31 @@
       "organisator": "WeAreOne",
       "url": "https://raw.githubusercontent.com/EllenVstb/fake/main/pp.png"
 
+    },
+    {
+      "id": 4,
+      "category": "Pop",
+      "title": "Pukkelpop",
+      "description": "Pukkelpop is een gerenommeerd muziekfestival dat jaarlijks plaatsvindt in Kiewiet, België",
+      "location": "Kiwiet",
+      "date": "15-18 augustus 2024",
+      "time": "11.00",
+      "organisator": "Chokri Mahassine",
+      "url": "https://raw.githubusercontent.com/EllenVstb/fake/main/pp.png"
+
+    },
+
+    {
+      "id": 5,
+      "category": "Pop",
+      "title": "Pukkelpop",
+      "description": "Pukkelpop is een gerenommeerd muziekfestival dat jaarlijks plaatsvindt in Kiewiet, België",
+      "location": "Kiwiet",
+      "date": "15-18 augustus 2024",
+      "time": "11.00",
+      "organisator": "Chokri Mahassine",
+      "url": "https://raw.githubusercontent.com/EllenVstb/fake/main/pp.png"
+
     }
   ]
 }
